@@ -1,3 +1,3 @@
-mensagem = "Hello git"
+mensagem = "Olá main VSCode"
 
 print(mensagem)
